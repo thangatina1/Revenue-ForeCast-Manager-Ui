@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Design
 
-![]{src/assets/HighlevelDesign.jpg}
+![](src/assets/HighlevelDesign.jpg)
 
 
 ## Development server
